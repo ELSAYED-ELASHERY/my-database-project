@@ -1,0 +1,10 @@
+SQL vs NoSQL Comparison :
+SQL:
+Uses tables with fixed schema
+There is a relationship between the tables
+Examples: MySQL,PostgreSQL
+
+NoSQL:
+Good for unstructured or rapidly changing data
+Tables are not used
+Example:MongoDB
